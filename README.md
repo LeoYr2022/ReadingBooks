@@ -1,2 +1,2 @@
 # ReadingBooks
-Just the recode
+Books are stored in the exteranl brains
